@@ -15,5 +15,5 @@ spec:
   targetNamespace: staging
   values:
     image:
-      tag: 2.9.9
+      tag: 2.9.17
 
